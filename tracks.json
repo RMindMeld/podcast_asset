@@ -21,7 +21,7 @@
           "title": "EP004: Trends in Econometrics",
           "description": "An introduction to the mini-series on Trends in Econometrics",
           "url": "https://rmindmeld.github.io/podcast_asset/ep004-Econometrics.mp3",
-          "artwork": "assets/podcasts/ep004-Econometrics.jpg"
+          "artwork": "assets/podcasts/ep004_econometrics.jpg"
       },
       {
           "title": "EP005: Monte Carlo Simulation",
@@ -33,7 +33,7 @@
           "title": "Ep006: Dimension_Reduction_Techniques",
           "description": "A podcast episode titled Ep006_Dimension_Reduction_Techniques",
           "url": "https://rmindmeld.github.io/podcast_asset/ep006_dimension_reduction_techniques.mp3",
-          "artwork": "assets/podcasts/ep006_dimension_reduction_techniques.jpg"
+          "artwork": "assets/podcasts/ep006_dimension.jpg"
       },
       {
           "title": "Ep007: Inference_Weak_Instrumental",
