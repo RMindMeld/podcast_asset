@@ -118,6 +118,180 @@
           "description": "A podcast episode titled Ep020_Climate_Econometrics",
           "url": "https://rmindmeld.github.io/podcast_asset/ep020_climate_econometrics.mp3",
           "artwork": "assets/podcasts/ep020_climate_econometrics.jpg"
-      }
+      },
+      {
+        "title": "Ep021_A_Passion_For_Mathematics",
+        "description": "A podcast episode titled Ep021_A_Passion_For_Mathematics",
+        "url": "https://rmindmeld.github.io/podcast_asset/ep021_A_Passion_for_Mathematics.mp3",
+        "artwork": "assets/podcasts/ep021_A_Passion_for_Mathematics.jpg"
+        },
+        {
+            "title": "Ep022_Algorithms_Of_Prediction_And_Power",
+            "description": "A podcast episode titled Ep022_Algorithms_Of_Prediction_And_Power",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep022_Algorithms_of_Prediction_and_Power.mp3",
+            "artwork": "assets/podcasts/ep022_Algorithms_of_Prediction_and_Power.jpg"
+        },
+        {
+            "title": "Ep023_Alien_And_Philosophy",
+            "description": "A podcast episode titled Ep023_Alien_And_Philosophy",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep023_Alien_and_Philosophy.mp3",
+            "artwork": "assets/podcasts/ep023_Alien_and_Philosophy.jpg"
+        },
+        {
+            "title": "Ep024_Anime_And_Philosophy",
+            "description": "A podcast episode titled Ep024_Anime_And_Philosophy",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep024_Anime_and_Philosophy.mp3",
+            "artwork": "assets/podcasts/ep024_Anime_and_Philosophy.jpg"
+        },
+        {
+            "title": "Ep025_Avengers_Ethics_And_Identity",
+            "description": "A podcast episode titled Ep025_Avengers_Ethics_And_Identity",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep025_Avengers_Ethics_and_Identity.mp3",
+            "artwork": "assets/podcasts/ep025_Avengers_Ethics_and_Identity.jpg"
+        },
+        {
+            "title": "Ep026_Batman_And_Philosophy",
+            "description": "A podcast episode titled Ep026_Batman_And_Philosophy",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep026_Batman_and_Philosophy.mp3",
+            "artwork": "assets/podcasts/ep026_Batman_and_Philosophy.jpg"
+        },
+        {
+            "title": "Ep027_Beyond_Star_Trek",
+            "description": "A podcast episode titled Ep027_Beyond_Star_Trek",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep027_Beyond_Star_Trek.mp3",
+            "artwork": "assets/podcasts/ep027_Beyond_Star_Trek.jpg"
+        },
+        {
+            "title": "Ep028_Computer_Science_In_Sport",
+            "description": "A podcast episode titled Ep028_Computer_Science_In_Sport",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep028_Computer_Science_in_Sport.mp3",
+            "artwork": "assets/podcasts/ep028_Computer_Science_in_Sport.jpg"
+        },
+        {
+            "title": "Ep029_Ds_And_Predictive_Analytics_In_R",
+            "description": "A podcast episode titled Ep029_Ds_And_Predictive_Analytics_In_R",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep029_DS_and_Predictive_Analytics_in_R.mp3",
+            "artwork": "assets/podcasts/ep029_DS_and_Predictive_Analytics_in_R.jpg"
+        },
+        {
+            "title": "Ep030_Datadriven_Policy_Impact_Evaluation",
+            "description": "A podcast episode titled Ep030_Datadriven_Policy_Impact_Evaluation",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep030_DataDriven_Policy_Impact_Evaluation.mp3",
+            "artwork": "assets/podcasts/ep030_DataDriven_Policy_Impact_Evaluation.jpg"
+        },
+        {
+            "title": "Ep031_Economic_Warfare_Secrets_Of_Wealth",
+            "description": "A podcast episode titled Ep031_Economic_Warfare_Secrets_Of_Wealth",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep031_Economic_Warfare_Secrets_of_Wealth.mp3",
+            "artwork": "assets/podcasts/ep031_Economic_Warfare_Secrets_of_Wealth.jpg"
+        },
+        {
+            "title": "Ep032_Gamification_In_Higher_Education",
+            "description": "A podcast episode titled Ep032_Gamification_In_Higher_Education",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep032_Gamification_in_Higher_Education.mp3",
+            "artwork": "assets/podcasts/ep032_Gamification_in_Higher_Education.jpg"
+        },
+        {
+            "title": "Ep033_Game_Theory_Through_Examples",
+            "description": "A podcast episode titled Ep033_Game_Theory_Through_Examples",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep033_Game_Theory_Through_Examples.mp3",
+            "artwork": "assets/podcasts/ep033_Game_Theory_Through_Examples.jpg"
+        },
+        {
+            "title": "Ep034_Gender_And_Wage_Disparities",
+            "description": "A podcast episode titled Ep034_Gender_And_Wage_Disparities",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep034_Gender_and_Wage_Disparities.mp3",
+            "artwork": "assets/podcasts/ep034_Gender_and_Wage_Disparities.jpg"
+        },
+        {
+            "title": "Ep035_Harry_Potter_And_Philosophy",
+            "description": "A podcast episode titled Ep035_Harry_Potter_And_Philosophy",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep035_Harry_Potter_and_Philosophy.mp3",
+            "artwork": "assets/podcasts/ep035_Harry_Potter_and_Philosophy.jpg"
+        },
+        {
+            "title": "Ep036_Homer_Economicus_And_Economics",
+            "description": "A podcast episode titled Ep036_Homer_Economicus_And_Economics",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep036_Homer_Economicus_and_Economics.mp3",
+            "artwork": "assets/podcasts/ep036_Homer_Economicus_and_Economics.jpg"
+        },
+        {
+            "title": "Ep037_In_Praise_Of_Simple_Physics",
+            "description": "A podcast episode titled Ep037_In_Praise_Of_Simple_Physics",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep037_In_Praise_of_Simple_Physics.mp3",
+            "artwork": "assets/podcasts/ep037_In_Praise_of_Simple_Physics.jpg"
+        },
+        {
+            "title": "Ep038_Lego_Philosophy_And_Identity",
+            "description": "A podcast episode titled Ep038_Lego_Philosophy_And_Identity",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep038_LEGO_Philosophy_and_Identity.mp3",
+            "artwork": "assets/podcasts/ep038_LEGO_Philosophy_and_Identity.jpg"
+        },
+        {
+            "title": "Ep039_Math_And_The_Mona_Lisa",
+            "description": "A podcast episode titled Ep039_Math_And_The_Mona_Lisa",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep039_Math_and_the_Mona_Lisa.mp3",
+            "artwork": "assets/podcasts/ep039_Math_and_the_Mona_Lisa.jpg"
+        },
+        {
+            "title": "Ep040_Mathematical_Landscapes",
+            "description": "A podcast episode titled Ep040_Mathematical_Landscapes",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep040_Mathematical_Landscapes.mp3",
+            "artwork": "assets/podcasts/ep040_Mathematical_Landscapes.jpg"
+        },
+        {
+            "title": "Ep041_Numbers_Solving_Crime_Mathematics",
+            "description": "A podcast episode titled Ep041_Numbers_Solving_Crime_Mathematics",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep041_Numbers_Solving_Crime_Mathematics.mp3",
+            "artwork": "assets/podcasts/ep041_Numbers_Solving_Crime_Mathematics.jpg"
+        },
+        {
+            "title": "Ep042_Python_Brain_Teasers",
+            "description": "A podcast episode titled Ep042_Python_Brain_Teasers",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep042_Python_Brain_Teasers.mp3",
+            "artwork": "assets/podcasts/ep042_Python_Brain_Teasers.jpg"
+        },
+        {
+            "title": "Ep043_Quantile_Regression",
+            "description": "A podcast episode titled Ep043_Quantile_Regression",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep043_Quantile_Regression.mp3",
+            "artwork": "assets/podcasts/ep043_Quantile_Regression.jpg"
+        },
+        {
+            "title": "Ep044_Superheroes_And_Philosophy",
+            "description": "A podcast episode titled Ep044_Superheroes_And_Philosophy",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep044_Superheroes_and_Philosophy.mp3",
+            "artwork": "assets/podcasts/ep044_Superheroes_and_Philosophy.jpg"
+        },
+        {
+            "title": "Ep045_Black_Swan_And_The_Highly_Improbable",
+            "description": "A podcast episode titled Ep045_Black_Swan_And_The_Highly_Improbable",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep045_Black_Swan_and_the_Highly_Improbable.mp3",
+            "artwork": "assets/podcasts/ep045_Black_Swan_and_the_Highly_Improbable.jpg"
+        },
+        {
+            "title": "Ep046_The_Jazz_Of_Physics",
+            "description": "A podcast episode titled Ep046_The_Jazz_Of_Physics",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep046_The_Jazz_of_Physics.mp3",
+            "artwork": "assets/podcasts/ep046_The_Jazz_of_Physics.jpg"
+        },
+        {
+            "title": "Ep047_Lozelda_And_Philosophy",
+            "description": "A podcast episode titled Ep047_Lozelda_And_Philosophy",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep047_LoZelda_and_Philosophy.mp3",
+            "artwork": "assets/podcasts/ep047_LoZelda_and_Philosophy.jpg"
+        },
+        {
+            "title": "Ep048_The_Mathematics_Of_Life",
+            "description": "A podcast episode titled Ep048_The_Mathematics_Of_Life",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep048_The_Mathematics_of_Life.mp3",
+            "artwork": "assets/podcasts/ep048_The_Mathematics_of_Life.jpg"
+        },
+        {
+            "title": "Ep049_The_Universe_In_A_Nutshell",
+            "description": "A podcast episode titled Ep049_The_Universe_In_A_Nutshell",
+            "url": "https://rmindmeld.github.io/podcast_asset/ep049_The_Universe_in_a_Nutshell.mp3",
+            "artwork": "assets/podcasts/ep049_The_Universe_in_a_Nutshell.jpg"
+        }
     ]
   }
