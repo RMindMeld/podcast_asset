@@ -31,15 +31,15 @@
       },
       {
           "title": "Ep006: Dimension_Reduction_Techniques",
-          "description": "A podcast episode titled Ep006_Dimension_Reduction_Techniques",
+          "description": "Going Beyond Principal Component Analysis: A review of Methods",
           "url": "https://rmindmeld.github.io/podcast_asset/ep006_dimension_reduction_techniques.mp3",
           "artwork": "assets/podcasts/ep006_dimension.jpg"
       },
       {
           "title": "Ep007: Inference_Weak_Instrumental",
-          "description": "A podcast episode titled Ep007_Inference_Weak_Instrumental",
+          "description": "An overview of the problems and solutions regarding weak instruments",
           "url": "https://rmindmeld.github.io/podcast_asset/ep007_inference_weak_instrumental.mp3",
-          "artwork": "assets/podcasts/ep007_inference_weak_instrumental.jpg"
+          "artwork": "assets/podcasts/ep007_week_iv.jpg"
       },
       {
           "title": "Ep008_Economics_Crime_Punishment",
